@@ -1,0 +1,14 @@
+C:\ContractorProject\bin\Debug\net10.0\ContractorProject.exe
+C:\ContractorProject\bin\Debug\net10.0\ContractorProject.deps.json
+C:\ContractorProject\bin\Debug\net10.0\ContractorProject.runtimeconfig.json
+C:\ContractorProject\bin\Debug\net10.0\ContractorProject.dll
+C:\ContractorProject\bin\Debug\net10.0\ContractorProject.pdb
+C:\ContractorProject\obj\Debug\net10.0\ContractorProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\ContractorProject\obj\Debug\net10.0\ContractorProject.AssemblyInfoInputs.cache
+C:\ContractorProject\obj\Debug\net10.0\ContractorProject.AssemblyInfo.cs
+C:\ContractorProject\obj\Debug\net10.0\ContractorProject.csproj.CoreCompileInputs.cache
+C:\ContractorProject\obj\Debug\net10.0\ContractorProject.dll
+C:\ContractorProject\obj\Debug\net10.0\refint\ContractorProject.dll
+C:\ContractorProject\obj\Debug\net10.0\ContractorProject.pdb
+C:\ContractorProject\obj\Debug\net10.0\ContractorProject.genruntimeconfig.cache
+C:\ContractorProject\obj\Debug\net10.0\ref\ContractorProject.dll
